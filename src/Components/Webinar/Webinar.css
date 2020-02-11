@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body
+{
+    font-family: Roboto;
+}
+.nav-section{
+    display: flex;
+    font-size: 13px;
+}
+
+.head {
+    display: flex;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 900px;
+    margin-top: 20px;
+}
+
+.nav-section span{
+    padding-left: 60px;
+}
+
+.sub{
+    display: flex;
+    font-size: 13px;
+    margin-left: 250px;
+}
+.date-picker{
+    margin-left:144px;
+    margin-top: -70px;
+}
+.time-picker{
+    margin-left:34px;
+    margin-top: -70px;
+}
+.wrapper  {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+    align-items: center;
+}
+.wrapper label{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+ .from-description{
+    width: 1000px;
+}
+input[type="text"]{
+    width: 150px;
+}
+textarea{
+    margin-left: 5px;
+    border:1px solid grey;
+}
+input[type="number"]{
+    margin-left: 90px;
+    border:1px solid grey;
+    border-radius: 3px;
+    }
+select{
+    margin-left: 90px;
+}
+
+ .submitButtons{
+  padding:30px;
+  margin-left:115px ;
+}
+.btn
+{
+    width: 150px;
+}
+
+.submitButtons span {
+    padding-left:50px;
+}
+  

@@ -1,0 +1,49 @@
+input[type="file"] {
+  width: 410px;
+}
+.filesupload {
+  margin-left: 540px;
+  margin-top: 30px;
+}
+.upload {
+  position: relative;
+  left: 420px;
+  bottom: 55px;
+}
+.like-button:hover {
+ cursor: pointer;
+}
+.newsfeed-image {
+  width: 600px;
+  height: 250px;
+  border-radius: 10px;
+  margin-top: 35;
+  margin-bottom: 15;
+  margin-right: 5;
+}
+.comment-list{
+    color: grey;
+}
+.comment-button{
+    margin-left: 70px;
+    cursor: pointer;
+}
+.profile-image{
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.profile-image-bottom{
+    border-radius: 20px;
+    width: 35px;
+    height: 35px;
+}
+ .profile-image-bottom{
+    margin-left: 120px;
+}
+.comment-add{
+    color: grey;
+    margin-left: 120px;
+
+}
